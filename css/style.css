@@ -57,9 +57,9 @@ h1{
 
 @media (min-width: 420px){
   .jumbotron h1 {
-/*       margin-left : 1%;
-      margin-right : 1%;
-      margin-top: 0%; */
+      margin-left : 10%;
+      margin-right : 10%;
+      margin-top: 25%;
   }
 }
 
